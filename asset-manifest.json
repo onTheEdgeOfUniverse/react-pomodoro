@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/onTheEdgeOfUniverse.github.io/react-pomodor/static/css/main.54c086ba.chunk.css",
+    "main.js": "/onTheEdgeOfUniverse.github.io/react-pomodor/static/js/main.e9ccac6e.chunk.js",
+    "main.js.map": "/onTheEdgeOfUniverse.github.io/react-pomodor/static/js/main.e9ccac6e.chunk.js.map",
+    "runtime-main.js": "/onTheEdgeOfUniverse.github.io/react-pomodor/static/js/runtime-main.4596c657.js",
+    "runtime-main.js.map": "/onTheEdgeOfUniverse.github.io/react-pomodor/static/js/runtime-main.4596c657.js.map",
+    "static/js/2.218f4da8.chunk.js": "/onTheEdgeOfUniverse.github.io/react-pomodor/static/js/2.218f4da8.chunk.js",
+    "static/js/2.218f4da8.chunk.js.map": "/onTheEdgeOfUniverse.github.io/react-pomodor/static/js/2.218f4da8.chunk.js.map",
+    "index.html": "/onTheEdgeOfUniverse.github.io/react-pomodor/index.html",
+    "precache-manifest.adb3bac0d32e2fa75d2f0bba7864e79e.js": "/onTheEdgeOfUniverse.github.io/react-pomodor/precache-manifest.adb3bac0d32e2fa75d2f0bba7864e79e.js",
+    "service-worker.js": "/onTheEdgeOfUniverse.github.io/react-pomodor/service-worker.js",
+    "static/css/main.54c086ba.chunk.css.map": "/onTheEdgeOfUniverse.github.io/react-pomodor/static/css/main.54c086ba.chunk.css.map",
+    "static/js/2.218f4da8.chunk.js.LICENSE.txt": "/onTheEdgeOfUniverse.github.io/react-pomodor/static/js/2.218f4da8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4596c657.js",
+    "static/js/2.218f4da8.chunk.js",
+    "static/css/main.54c086ba.chunk.css",
+    "static/js/main.e9ccac6e.chunk.js"
+  ]
+}
